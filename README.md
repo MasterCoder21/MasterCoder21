@@ -14,6 +14,7 @@ My name is Morgan Hinz (15 y/o). I'm an amateur developer and mostly do random s
 * ⚡ Fun fact: **I'm a _mostly_ a self taught programmer. Up until 2022, I learned HTML/CSS/JS, Java, Python, and some C# by myself. Currently, I'm taking a C++ class at my school.**
 
 ### Some interesting stats
+[![Morgan Hinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterCoder21&show_icons=true)](https://github.com/MasterCoder21)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCoder21&layout=compact)](https://github.com/MasterCoder21)
 ### Pinned Repos
 [![](https://github-readme-stats.vercel.app/api/pin/?username=MasterCoder21&repo=CppProgrammingProjects)](https://github.com/MasterCoder21/CppProgrammingProjects)[![](https://github-readme-stats.vercel.app/api/pin/?username=MasterCoder21&repo=MikuMikuWorld)](https://github.com/MasterCoder21/MikuMikuWorld)[![](https://github-readme-stats.vercel.app/api/pin/?username=MasterCoder21&repo=mcp-snippets)](https://github.com/MasterCoder21/mcp-snippets)
