@@ -11,7 +11,7 @@ My name is Morgan Hinz (15 y/o). I'm an amateur developer and mostly do random s
 * 💬 Ask me about... **what I like most about programming!**
 * 📫 How to reach me:  **Discord: GodlyDev#8310**
 * 😄 Pronouns: **He/They**
-* ⚡ Fun fact: **I'm a _mostly_ a self taught programmer. Up until 2022, I learned HTML/CSS/JS, Java, Python, and some C# by myself. Currently, I'm taking a C++ class at my school.**
+* ⚡ Fun fact: **I'm _\mostly_ a self taught programmer. Up until 2022, I learned HTML/CSS/JS, Java, Python, and some C# by myself. Currently, I'm taking a C++ class at my school.**
 
 ### Some interesting stats
 [![Morgan Hinz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MasterCoder21&show_icons=true)](https://github.com/MasterCoder21)
