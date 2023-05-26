@@ -2,7 +2,7 @@
 
 ##### A little bit about me
 
-My name is Morgan Hinz (15 y/o). I'm an amateur developer and mostly do random side projects to improve my knowledge on a wide variety of languages. Right now...
+My name is Morgan Hinz (16 y/o). I'm an amateur developer and mostly do random side projects to improve my knowledge on a wide variety of languages. Right now...
 
 * 🔭 I'm currently working on... **[Moonsense Client](https://github.com/Moonsense-Client)**
 * 🌱 I'm currently learning... **C++, C# and Unity**
